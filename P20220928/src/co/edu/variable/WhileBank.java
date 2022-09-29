@@ -43,7 +43,7 @@ public class WhileBank {
 				System.out.println("현재 잔고는 :" + money + "원");
 				break;
 			case 4:
-				System.out.println("종료하는 메뉴");
+				System.out.println("종료");
 				run = false;
 			}
 

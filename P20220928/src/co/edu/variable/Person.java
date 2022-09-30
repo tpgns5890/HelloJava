@@ -14,4 +14,7 @@ public class Person {
 	void sleep() {
 		System.out.println("잠을 잡니다.");
 	}
+	void run() {
+		System.out.println("달립니다.");
+	}
 }
